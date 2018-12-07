@@ -1,0 +1,12 @@
+[
+    {
+        "Country": "United States",
+        "City": "Mercer Island",
+        "State": "Washington"
+    },
+    {
+        "Country": "United States",
+        "City": "Redmond",
+        "State": "Washington"
+    }
+]
